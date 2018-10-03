@@ -3,10 +3,11 @@ body{
 
 }
 
-.header{
-    display: inline-block;
+header{
     width: 100%;
+    background: #232323
 }
+
 
 .portfolio_title{
     float: right;
@@ -19,7 +20,8 @@ body{
 
 .nav_item{
     display: inline;
-    margin: 10%
+    margin-bottom: 15px;
+
 }
 
 .work_box{
