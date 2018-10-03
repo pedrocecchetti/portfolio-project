@@ -1,9 +1,28 @@
 body{
     font-family: ubuntu, Calibri;
+
 }
 
+.header{
+    display: inline-block;
+    width: 100%;
+}
+
+.portfolio_title{
+    float: right;
+}
 .nav_menu{
     list-style-type: none;
-    margin: 0;
-    padding: 0;
+    display: inline;
+    width: 40%;
+}
+
+.nav_item{
+    display: inline;
+    margin: 10%
+}
+
+.work_box{
+    width: 30%;
+    border: 2px solid grey;
 }
