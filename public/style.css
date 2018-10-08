@@ -28,3 +28,22 @@ header{
     width: 30%;
     border: 2px solid grey;
 }
+
+.waltdisney_quote{
+    font-family: ubuntu, 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+
+.signature{
+    font-family: ubuntu;    
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.ubuntu{
+    font-family: ubuntu;
+}
+.ubuntu-bold{
+    font-family: ubuntu;
+    font-weight: bold;
+}
