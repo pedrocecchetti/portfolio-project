@@ -1,6 +1,5 @@
 body{
     font-family: ubuntu, Calibri;
-
 }
 
 header{
@@ -8,10 +7,10 @@ header{
     background: #232323
 }
 
-
 .portfolio_title{
     float: right;
 }
+
 .nav_menu{
     list-style-type: none;
     display: inline;
@@ -21,7 +20,6 @@ header{
 .nav_item{
     display: inline;
     margin-bottom: 15px;
-
 }
 
 .work_box{
@@ -43,6 +41,7 @@ header{
 .ubuntu{
     font-family: ubuntu;
 }
+
 .ubuntu-bold{
     font-family: ubuntu;
     font-weight: bold;
